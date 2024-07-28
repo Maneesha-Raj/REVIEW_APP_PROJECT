@@ -10,7 +10,7 @@ The application has two main types of users:
 - **Review Management** :  Deals with creating, reading and viewing reviews. It includes functionalities like adding a review and viewing reviews.
 - **Product Management** :  Manages the products or items that users can review. It includes functionalities like adding new products, searching for products  and deleting products.
 - **UI Components** :  Contains reusable UI components such as buttons, forms and cards. It helps maintain consistency in the app's appearance and makes it easier to build and maintain the user interface.
-**Basic outline of the key components and considerations for designing such an app:**
+### **Basic outline of the key components and considerations for designing such an app:**
 1. **Homepage**:
 - Featured Gadgets: Display featured products with high ratings or newly released ones.
 - Search Bar: Allow users to search for specific products by category.
